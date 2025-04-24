@@ -100,3 +100,20 @@ body {
 .brand {
     color: #fff;
 }
+.contacto {
+    grid-template-columns: repeat(10,1fr);
+    width: 100vw;
+    align-items: center;
+}
+.contacto img {
+    width: 200px;
+    height: 200px;
+    border: 7px solid aqua;
+    grid-column: 1/5;
+}
+.contacto h2 {
+    color: #fff;
+}
+.contacto h3 {
+    color: #fff;
+}
