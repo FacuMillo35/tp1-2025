@@ -117,3 +117,13 @@ body {
 .contacto h3 {
     color: #fff;
 }
+a {
+    color: #fff;
+    padding: 20px;
+    cursor: pointer;
+}
+a:hover {
+    color: aqua;
+    box-shadow: 0px 0px 10px aqua;
+    transition: ease-in 0.4s;
+}
