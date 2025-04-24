@@ -4,3 +4,10 @@
     background-color: #191c32;
     color: #fff;
 }
+.menu a {
+    color: #fff;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
