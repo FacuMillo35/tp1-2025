@@ -48,3 +48,12 @@ h1 {
 span {
     color: aqua;
 }
+.descargar-cv {
+    padding: 10px 20px;
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow:  0px 0px 10px aqua;
+}
