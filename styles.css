@@ -61,3 +61,8 @@ span {
     background-color: white;
     box-shadow: none;
 }
+.main img {
+    width: 350px;
+    height: 350px;
+    border: 7px solid aqua;
+}
