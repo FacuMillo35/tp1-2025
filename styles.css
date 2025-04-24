@@ -123,7 +123,8 @@ a {
     cursor: pointer;
 }
 a:hover {
-    color: aqua;
+    background-color: aqua;
+    color: #191c32;
     box-shadow: 0px 0px 10px aqua;
     transition: ease-in 0.4s;
 }
