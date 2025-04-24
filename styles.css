@@ -41,3 +41,10 @@
     grid-template-columns: repeat(2,1fr);
     align-items: center;
 }
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+span {
+    color: aqua;
+}
