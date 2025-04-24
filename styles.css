@@ -4,13 +4,18 @@
     background-color: #191c32;
     color: #fff;
 }
+.brand {
+    margin-top: -7px;
+}
 .menu a {
     color: #fff;
     text-decoration: none;
+    padding: 10px 20px;
 }
 .navbar {
     display: flex;
     justify-content: space-between;
+    padding: 2em;
 }
 .menu li {
     list-style: none;
@@ -19,4 +24,12 @@
     display: flex;
     width: 50%;
     justify-content: space-around;
+}
+.menu .active {
+    color : aqua;
+}
+.menu a:hover {
+    background-color: aqua;
+    color: #191c32;
+    transition: ease-in 0.4s;
 }
