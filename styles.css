@@ -76,15 +76,24 @@ span {
     width: 500px;
     height: 500px;
     border: 7px solid aqua;
+    grid-column: 1/5;
 }
 .about-info {
-    padding-left: 100px;
+    grid-column: 5/10;
+    padding: 3em;
     color: #fff;
 }
-
-.about .descargar-cv {
-    margin-left: 100px;
+.about-info h2 {
+    font-size: 3em;
 }
+.rayita {
+    width: 60px;
+    height: 4px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 2.5em;
+}
+
 body {
     background-color: #191c32;
 }
