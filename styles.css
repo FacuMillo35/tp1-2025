@@ -66,3 +66,23 @@ span {
     height: 350px;
     border: 7px solid aqua;
 }
+.about {
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+    width: 100vw;
+    align-items: center;
+}
+.about img {
+    width: 500px;
+    height: 500px;
+    border: 7px solid aqua;
+}
+.about-info {
+    padding-left: 100px;
+}
+.about h2 {
+    
+}
+.about .descargar-cv {
+    margin-left: 100px;
+}
