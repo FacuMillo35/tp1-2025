@@ -79,10 +79,15 @@ span {
 }
 .about-info {
     padding-left: 100px;
+    color: #fff;
 }
-.about h2 {
-    
-}
+
 .about .descargar-cv {
     margin-left: 100px;
+}
+body {
+    background-color: #191c32;
+}
+.brand {
+    color: #fff;
 }
